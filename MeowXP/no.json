@@ -1,0 +1,59 @@
+{
+	"ua": "",
+	"homeUrl": "https://www.novipnoad.com",
+	"cateManual": {
+    "电影": "movie",
+    "剧集": "tv",
+    "动画": "anime",
+    "综艺": "show",
+    "音乐": "music",
+    "短片": "short",
+    "其他": "other"
+  },
+
+	"homeVodNode": "//div[contains(@id,'post-')]",
+	"homeVodName": "//div[@class='item-head']/h3/a/text()",
+	"homeVodId": "//a/@href",
+	"homeVodIdR": "https://www.novipnoad.com/(\\S+).html",
+	"homeVodImg": "//a/img/@data-original",
+    "homeVodImgR": "",
+	"homeVodMark": "",
+	"cateUrl": "https://www.novipnoad.com/{cateId}/page/{catePg}/",
+	"cateVodNode": "//div[contains(@id,'post-')]",
+	"cateVodName": "//div[@class='item-head']/h3/a/text()",
+	"cateVodId": "//a/@href",
+	"cateVodIdR": "https://www.novipnoad.com/(\\S+).html",
+  	"cateVodImg": "//a/img/@data-original",
+ 	"cateVodMark": "",
+
+
+	"dtUrl": "https://www.novipnoad.com/{vid}.html",
+	"dtNode": "//body",
+	"dtName": "//h1[@class='light-title entry-title']/text()",
+	"dtNameR": "",
+	"dtImg": "//div[@class='video-item']/div[1]/a/img/@data-original",
+	"dtImgR": "",
+
+	"dtCate": "//div[@class='item-tax-list']/strong[contains(text(),'Category: ')]/a/text()",
+	"dtCateR": "",
+    
+	"dtFromNode": "//span[@class='fn']/a",
+	"dtFromName": "/text()",
+	"dtUrlNode": "//h3[@class='comment-reply-title']",
+	"dtUrlSubNode": "//a",
+	"dtUrlId": "@href",
+	"dtUrlIdR": "(\\S+)",
+	"dtUrlName": "\"播放地址\"",
+	"dtUrlNameR": "",
+	//"playUrl": "https://www.novipnoad.com{playUrl}",
+	"playUrl": "http://live.yj1211.work/index/liveRoom?platform=douyu&roomId=9559158",
+    "playUa": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+	"searchUrl": "http://www.9rmb.com/search?wd={wd}",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='movie-item']/a",
+	"scVodName": "/@title",
+	"scVodId": "/@href",
+	"scVodIdR": "/show/(\\w+).html",
+	"scVodImg": "/img/@src",
+	"scVodMark": "/button/text()"
+}
