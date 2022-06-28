@@ -3,7 +3,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
 "spider":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/doraAmen.jar",
-//"spider":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/baddychen0608.jar",
+"spider":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/baddychen0608.jar",
 //"spider":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/custom_spider.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
