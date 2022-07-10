@@ -21,7 +21,7 @@
 {"key":"csp_biubiu_奈菲影院","name":"奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXB/奈菲影院.json"},
 //{"key":"csp_xpath_rttks","name":"人人影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXP/rttks.json"},
 {"key":"csp_xpath_xfeiji","name":"小小影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXP/xfeiji.json"},
-{"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXB/泥巴.json"},
 {"key":"csp_biubiu_神马影院","name":"神马影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXB/神马接口.json"},
 {"key":"csp_xpath_novipnoad","name":"no视频","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXP/no.json"},
 {"key":"csp_xpath_555","name":"555电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXP/555.json"},
