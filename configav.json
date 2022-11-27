@@ -94,7 +94,7 @@
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 //{"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
   
-{"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/,"searchable":0,"quickSearch":0},
+{"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XB/爱看影院.json"},
 {"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XB/GAOAA.json"},
 {"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XB/香蕉视频.json"},
