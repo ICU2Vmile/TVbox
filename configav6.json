@@ -2,10 +2,10 @@
 "spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
 "sites": [  
 
-{"name":"⛰18av js","key":"js_18av","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/18av.js"},
-{"name":"⛰Banan js","key":"js_Banan","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/Banan.js"},
-{"name":"⛰养端 js","key":"js_养端","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/养端.js"},
-{"name":"⛰朱古力 js","key":"js_朱古力","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/朱古力.js"},
+{"name":"18av","key":"js_18av","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/18av.js","jar":"https://raw.fastgit.org/lyghgx/tv/main/jar/18.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"},
+{"name":"Banan","key":"js_Banan","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/Banan.js","jar":"https://raw.fastgit.org/lyghgx/tv/main/jar/18.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"},
+{"name":"养端","key":"js_养端","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/养端.js","jarr":"https://raw.fastgit.org/lyghgx/tv/main/jar/18.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"},
+{"name":"朱古力","key":"js_朱古力","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/朱古力.js","jar":"https://raw.fastgit.org/lyghgx/tv/main/jar/18.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"},
   
 {"key":"测试","name":"CABLEAV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/cd1de0dc9b5d9c7a6d6bca7767452816b2307209/json/qq.json","jar":"https://raw.githubusercontent.com/gaotianliuyun/gao/cd1de0dc9b5d9c7a6d6bca7767452816b2307209/jar/xo.jar"},
 {"key":"s嗷嗷","name":"️nowav","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/cd1de0dc9b5d9c7a6d6bca7767452816b2307209/json/881.json","jar":"https://raw.githubusercontent.com/gaotianliuyun/gao/cd1de0dc9b5d9c7a6d6bca7767452816b2307209/jar/xo.jar"},
