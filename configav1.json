@@ -5,11 +5,21 @@
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
 //"spider":"https://raw.iqiq.io/paopaoqing/dgzj/main/0723.jar",
 "sites": [    
+//"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0555de475e5d35fba55d58abb5c4568e"
+{"key": "18AV","name": "18AV","type": 3,"api": "csp_Eighteen","searchable": 1,"filterable": 1},
+{ "key": "dadiapi.com", "name": "成人09", "type": 0, "api": "http://dadiapi.com/api.php", "quickSearch": 1, "searchable": 1, "filterable": 1},
+{ "key": "mygzycj.com", "name": "成人14", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "quickSearch": 1, "searchable": 1, "filterable": 1 },
+{ "key": "shayuapi.com", "name": "成人40", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/", "quickSearch": 1, "searchable": 1, "filterable": 1},
+{ "key": "dmmapi.com", "name": "成人49", "type": 0, "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml", "quickSearch": 1, "searchable": 1, "filterable": 1},
+  
+  
+
+  
 {"key":"*水蜜桃","name":"*水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*秀色资源","name":"*秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*色猫资源","name":"*色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"*秀色资源","name":"*秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"*色猫资源","name":"*色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"*爱看资源","name":"*爱看资源","type":1,"api":"http://www.aikanzyz9.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"*大MM资源","name":"*大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"*大MM资源","name":"*大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"*抖阴视频","name":"*抖阴视频","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*酷豆资源","name":"*酷豆资源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*酷豆2","name":"*酷豆2","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
