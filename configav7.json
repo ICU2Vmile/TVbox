@@ -12,6 +12,15 @@
       "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
     }
 "sites": [  
+    
+{"key":"csp_hsck","name":"Hsck","type":3,"api":"csp_Hsck","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar": "https://raw.iqiq.io/kfyzp/kfcha/main/123/3-ce20221117.jar"},
+{"key":"csp_xBPQ_banan","name": "banan","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/banan.json","jar": "https://raw.iqiq.io/kfyzp/kfcha/main/123/3-ce20221117.jar"},
+{"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1,"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/123/3-ce20221117.jar"},
+{"key":"XYQBiu_cs","name":"cs(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/1.json","jar": "https://raw.iqiq.io/kfyzp/kfcha/main/123/3-ce20221117.jar"},
+{"key":"XYQBiu_cs1","name":"cs1(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/2.json","jar": "https://raw.iqiq.io/kfyzp/kfcha/main/123/3-ce20221117.jar"},
+{"key":"XYQBiu_测试3","name":"cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/cqzy.json","jar": "https://raw.iqiq.io/kfyzp/kfcha/main/123/3-ce20221117.jar"},
+{"key":"csp_XBiu_麻豆","name":"麻豆","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/麻豆.json"},   
+{"key":"csp_xf_18av","name":"18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/18av.json"},
 
 {"name":"18av","key":"js_18av","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/18av.js","jar":"https://raw.fastgit.org/lyghgx/tv/main/jar/18.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"},
 {"name":"Banan","key":"js_Banan","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/Banan.js","jar":"https://raw.fastgit.org/lyghgx/tv/main/jar/18.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"},
