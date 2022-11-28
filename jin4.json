@@ -1,4 +1,19 @@
 {
+// 每日一言 (随机显示欢迎语)
+"dairyWords": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://v.api.aa1.cn/api/yiyan/index.php?type=get"
+     }
+    },
+    "response": {
+        "result": "$.data.content"
+    },
+    "expires" : "43200"
+}],
+  
 //点播源
 "sites": [
 //{"key":"数据源唯一标识不可重复","name":"数据源名称","type":"0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫","api":"数据源api地址","playUrl":"站点播放地址","searchable":"可搜索? 0-不可以 1-可以","quickSearch":"可快速搜索? 0-不可以 1-可以","filterable":"可筛选? 0-不可以 1-可以","ext":"站点扩展信息","categories":"按顺序展示所配置的分类 不配置则默认展示所有分类"
