@@ -6,9 +6,19 @@
 //"spider":"https://raw.iqiq.io/paopaoqing/dgzj/main/0723.jar",
 "sites": [    
 //"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0555de475e5d35fba55d58abb5c4568e"
+  
+  
+{"key": "csp_biubiu_av播","name": "av播","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "{\r\n  \"name\": \"爱思\",\r\n  \"url\": \"https://avbro.top/\",\r\n // \"User\": \"User-Agent:Dart/2.14 (dart:io)\",\r\n  \"shouye\": \"1\",\r\n \"fenlei\": \"無碼專區$/index.php/vod/show/by/hits/id/12/page/#國産AV$/index.php/vod/show/by/hits/id/30/page/#日本AV$//index.php/vod/type/id/1#歐美AV$/index.php/vod/type/id/5\",\r\n  \"houzhui\": \".html\",\r\n  \"shifouercijiequ\": \"0\",\r\n  \"jiequqian\": \"空\",\r\n  \"jiequhou\": \"空\",\r\n  \"jiequshuzuqian\": \"lazyload\",\r\n  \"jiequshuzuhou\": \"</div>\",\r\n  \"tupianqian\": \"data-original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuoqian\": \"/index.php/vod/search.html?wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"/index.php/vod/detail/id/\",\r\n  \"ssmoshi\": \"1\",\r\n  \"sousuoshifouercijiequ\": \"0\",\r\n  \"jspic\": \"pic\",\r\n  \"jsname\": \"name\",\r\n  \"jsid\": \"id\",\r\n  \"ssjiequqian\": \"空\",\r\n  \"ssjiequhou\": \"空\",\r\n  \"ssjiequshuzuqian\": \"空\",\r\n  \"ssjiequshuzuhou\": \"空\",\r\n  \"sstupianqian\": \"空\",\r\n  \"sstupianhou\": \"空\",\r\n  \"ssbiaotiqian\": \"空\",\r\n  \"ssbiaotihou\": \"空\",\r\n  \"sslianjieqian\": \"空\",\r\n  \"sslianjiehou\": \"空\",\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"空\",\r\n  \"bfjiequhou\": \"空\",\r\n  \"bfjiequshuzuqian\": \"class=\\\"content_playlist clearfix\",\r\n  \"bfjiequshuzuhou\": \"</div>\",\r\n  \"zhuangtaiqian\": \"class=\\\"pic_text text_right\",\r\n  \"zhuangtaihou\": \"</span>\",\r\n  \"daoyanqian\": \"导演：</span>\",\r\n  \"daoyanhou\": \"</p>\",\r\n  \"zhuyanqian\": \"主演：</span>\",\r\n  \"zhuyanhou\": \"</p>\",\r\n  \"juqingqian\": \"class=\\\"col-pd\\\">\",\r\n  \"juqinghou\": \"</p>\",\r\n  \"bfyshifouercijiequ\": \"0\",\r\n  \"bfyjiequqian\": \"空\",\r\n  \"bfyjiequhou\": \"空\",\r\n  \"bfyjiequshuzuqian\": \"<a\",\r\n  \"bfyjiequshuzuhou\": \"/a>\",\r\n  \"bfbiaotiqian\": \">\",\r\n  \"bfbiaotihou\": \"<\",\r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"\r\n}"},
+{"key": "zp116","name": "泡芙资源","type": 0,"api": "http://zmcj88.com/api?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "csp_biubiu_搞av","name": "搞av","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "{\r\n  \"name\": \"GAOAA\",\r\n  \"url\": \"https://43gaoaa.com\",\r\n  \"User\": \"空\",\r\n  \"shouye\": \"1\",\r\n  \"fenlei\": \"国产视频$/gaotype/25_#日本无码$/gaotype/20_#日本有码$/gaotype/9_#中文字幕$/gaotype/2_#三级电影$/gaotype/1_#巨乳系列$/gaotype/3_#人妻激情$/gaotype/8_#欧美极品$/gaotype/18_#制服诱惑$/gaotype/16_#自拍偷拍$/gaotype/17_#强奸乱伦$/gaotype/14_#绝美少女$/gaotype/13_#首次亮相$/gaotype/12_#HEY诱惑$/gaotype/5_#独家DMM$/gaotype/4_#网红主播$/gaotype/6_#日韩精品$/gaotype/10_#激情口交$/gaotype/11_#动漫电影$/gaotype/15_#极骚萝莉$/gaotype/19_#HEYZO$/gaotype/21_#高潮喷吹$/gaotype/22_#自慰颜射$/gaotype/23_\",\r\n  \"houzhui\": \".html\",\r\n  \"shifouercijiequ\": \"1\",\r\n  \"jiequqian\": \"blank\\\">百人牛牛，美女陪干！不爽就来干</a>\",\r\n  \"jiequhou\": \"<div class=\\\"box-page\\\">\",\r\n  \"jiequshuzuqian\": \"class=\\\"video-pic loading\",\r\n  \"jiequshuzuhou\": \"player\",\r\n  \"tupianqian\": \"original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuoqian\": \"/gaosearch/-/?wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"/gaotype/\",\r\n  \"ssmoshi\": \"1\",\r\n  \"sousuoshifouercijiequ\": \"1\",\r\n  \"jspic\": \"空\",\r\n  \"jsname\": \"空\",\r\n  \"jsid\": \"空\",\r\n  \"ssjiequqian\": \"blank\\\">百人牛牛，美女陪干！不爽就来干</a>\",\r\n  \"ssjiequhou\": \"<div class=\\\"box-page\\\">\",\r\n  \"ssjiequshuzuqian\": \"class=\\\"video-pic loading\",\r\n  \"ssjiequshuzuhou\": \"player\",\r\n  \"sstupianqian\": \"original=\\\"\",\r\n  \"sstupianhou\": \"\\\"\",\r\n  \"ssbiaotiqian\": \"title=\\\"\",\r\n  \"ssbiaotihou\": \"\\\"\",\r\n  \"sslianjieqian\": \"href=\\\"\",\r\n  \"sslianjiehou\": \"\\\"\",\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"空\",\r\n  \"bfjiequhou\": \"空\",\r\n  \"bfjiequshuzuqian\": \"class=\\\"item line\\\">\",\r\n  \"bfjiequshuzuhou\": \"</div>\",\r\n  \"zhuangtaiqian\": \"target=\\\"_blank\\\">\",\r\n  \"zhuangtaihou\": \"</a><i\",\r\n  \"daoyanqian\": \"class=\\\"data\\\">类型：\",\r\n  \"daoyanhou\": \"</p>\",\r\n  \"zhuyanqian\": \"class=\\\"data\\\">主演：\",\r\n  \"zhuyanhou\": \"</p>\",\r\n  \"juqingqian\": \"<h1>\",\r\n  \"juqinghou\": \"</h1>\",\r\n  \"bfyshifouercijiequ\": \"0\",\r\n  \"bfyjiequqian\": \"空\",\r\n  \"bfyjiequhou\": \"空\",\r\n  \"bfyjiequshuzuqian\": \"<a\",\r\n  \"bfyjiequshuzuhou\": \"/a>\",\r\n  \"bfbiaotiqian\": \">\",\r\n  \"bfbiaotihou\": \"<\",\r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"\r\n}\r\n"},
+{"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","playUrl": "parse:妹妹","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"影库资源-伦理","name":"影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key": "美少女","name": "美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","playUrl": "parse:妹妹","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+{"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0}, 
+  
 {"key": "18AV","name": "18AV","type": 3,"api": "csp_Eighteen","searchable": 1,"filterable": 1},
 { "key": "dadiapi.com", "name": "成人09", "type": 0, "api": "http://dadiapi.com/api.php", "quickSearch": 1, "searchable": 1, "filterable": 1},
-{ "key": "mygzycj.com", "name": "成人14", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "quickSearch": 1, "searchable": 1, "filterable": 1 },
+{ "key": "mygzycj.com", "name": "JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "quickSearch": 1, "searchable": 1, "filterable": 1 },
 { "key": "shayuapi.com", "name": "成人40", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/", "quickSearch": 1, "searchable": 1, "filterable": 1},
 { "key": "dmmapi.com", "name": "成人49", "type": 0, "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml", "quickSearch": 1, "searchable": 1, "filterable": 1},
   
@@ -24,21 +34,21 @@
 {"key":"*酷豆资源","name":"*酷豆资源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*酷豆2","name":"*酷豆2","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*影库资源-伦理","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
 {"key":"*奶茶资源","name":"*奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*淫水机资源","name":"*淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
+
+{"key":"淫水机资源","name":"淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*白嫖资源","name":"*白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*小湿妹资源","name":"*小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*CK资源","name":"*CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"乐播资源","name":"乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"*色色资源","name":"*色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"*玖玖资源","name":"*玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"*狼少年","name":"*狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"9号番号","name":"9号番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"9号资源","name":"9号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable": 0},
   
 {"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
