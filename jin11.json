@@ -77,7 +77,8 @@
     //第一种，通用csp csp_XPath，csp_XPathFilter，csp_XPathMacFilter，csp_XBiubiu  +ext 如：{"key":"csp_xpath_libv2","name":"Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXP/libvio1.json"},
     //第而终，专用csp csp_Ddrk，这种情况下ext可存放token，如：{"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},  
   //type4 服务器爬虫 指明服务器爬虫地址
- 
+
+{"key":"csp_xpath_mp4dycl","name":"🌟MP4电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/mp4dycl.json"},
 {"key": "Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "http://wp.anxwl.cn/down.php/381a02b64a5bd9853369369c335b8018.txt"}, 
 {"key": "csp_AppYs_秒播","name": "绿色影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},    
 {"key":"csp_xpath_片吧影院","name":"片吧影院","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://wp.anxwl.cn/down.php/06c48b86959034bdfd2c64464f3efb92.json"},
