@@ -1,19 +1,4 @@
 {
-// 每日一言 (随机显示欢迎语)
-"dairyWords": [{
-    "name": "rating",
-    "request": {
-     "method": "GET",
-     "url": {
-      "raw": "https://v.api.aa1.cn/api/yiyan/index.php?type=get"
-     }
-    },
-    "response": {
-        "result": "$.data.content"
-    },
-    "expires" : "43200"
-}],
-  
 // 首页推荐视频 (豆瓣)
 "recommend": [{
  "name": "豆瓣推荐",
@@ -68,16 +53,6 @@
   
 //点播源
 "sites": [
-//{"key":"数据源唯一标识不可重复","name":"数据源名称","type":"0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫","api":"数据源api地址","playUrl":"站点播放地址","searchable":"可搜索? 0-不可以 1-可以","quickSearch":"可快速搜索? 0-不可以 1-可以","filterable":"可筛选? 0-不可以 1-可以","ext":"站点扩展信息","categories":"按顺序展示所配置的分类 不配置则默认展示所有分类"
-
-  //type0 xml，RSS
-  //type1 json api指明json地址，无需ext
-  //type2 爬虫源
-  //type3 自定义爬虫
-    //第一种，通用csp csp_XPath，csp_XPathFilter，csp_XPathMacFilter，csp_XBiubiu  +ext 如：{"key":"csp_xpath_libv2","name":"Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/MeowXP/libvio1.json"},
-    //第而终，专用csp csp_Ddrk，这种情况下ext可存放token，如：{"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},  
-  //type4 服务器爬虫 指明服务器爬虫地址
-
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 {"key":"Voflix","name":"茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo27.jar;md5; EAD1319134EBA7F8835536BCFEA7917B"},  
 {"key":"csp_xbb_茶杯狐","name":"茶杯狐2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/茶杯狐.json"},
