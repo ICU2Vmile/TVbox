@@ -58,7 +58,6 @@
 {"key":"csp_xbb_茶杯狐","name":"茶杯狐2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/茶杯狐.json"},
 {"key": "drpy_js_喵喵","name": "2345看","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%96%b5%e5%96%b5.js"},
 {"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},    
-{"key":"Tutu_spider","name":"图图","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618", "jar":"http://rl1eetffv.bkt.clouddn.com/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded699"},
 {"key":"Tian","name":"T3天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392", "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
 {"key":"csp_xbb_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/乐猪影视.json"},
 {"key":"csp_xbb_骚火VIP","name":"骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/shdy.json"},
